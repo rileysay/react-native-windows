@@ -136,7 +136,7 @@ root `package.json`), so nothing is suppressed.
 
 `release-pipeline.yml` defines these publishing targets from ISS:
 
-- npm → npmjs.com via `EsrpRelease@11`
+- npm → npmjs.com via `EsrpRelease@14`
 - npm and NuGet → `ms/react-native` (private) and `ms/react-native-public` (public) feeds
 - NuGet → nuget.org via `EsrpRelease@14`
 - PDB symbols → Microsoft Symbol Server (`templates/publish-symbols.yml`)
