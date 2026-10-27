@@ -1,8 +1,17 @@
 # Change Log - @react-native-windows/automation-commands
 
-<!-- This log was last generated on Tue, 16 Jun 2026 09:54:40 GMT and should not be manually modified. -->
+<!-- This log was last generated on Tue, 27 Oct 2026 12:23:43 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.83.3
+
+Tue, 27 Oct 2026 12:23:43 GMT
+
+### Patches
+
+- Migrate package metadata to Yarn 4 (vmorozov@microsoft.com)
+- Bump @react-native-windows/automation-channel to v0.83.3
 
 ## 0.83.2
 
