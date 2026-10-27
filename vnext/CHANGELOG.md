@@ -1,8 +1,16 @@
 # Change Log - react-native-windows
 
-<!-- This log was last generated on Wed, 14 Oct 2026 01:21:06 GMT and should not be manually modified. -->
+<!-- This log was last generated on Tue, 27 Oct 2026 12:24:10 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.84.2
+
+Tue, 27 Oct 2026 12:24:10 GMT
+
+### Patches
+
+- Route repository and CI NuGet.org restores through PackageFeedProxy (vmorozov@microsoft.com)
 
 ## 0.84.1
 
