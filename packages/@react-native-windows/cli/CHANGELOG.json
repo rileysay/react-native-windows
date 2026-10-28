@@ -2,6 +2,27 @@
   "name": "@react-native-windows/cli",
   "entries": [
     {
+      "date": "Wed, 28 Oct 2026 00:03:56 GMT",
+      "version": "0.81.11",
+      "tag": "@react-native-windows/cli_v0.81.11",
+      "comments": {
+        "patch": [
+          {
+            "author": "anuagra@microsoft.com",
+            "package": "@react-native-windows/cli",
+            "commit": "a4e8a9adc04210a63dc3b92eaeea91d00a5c3443",
+            "comment": "Update @xmldom/xmldom to ^0.8.15 for XML serialization security fixes."
+          },
+          {
+            "author": "beachball",
+            "package": "@react-native-windows/cli",
+            "comment": "Bump @react-native-windows/telemetry to v0.81.5",
+            "commit": "not available"
+          }
+        ]
+      }
+    },
+    {
       "date": "Wed, 09 Sep 2026 16:37:08 GMT",
       "version": "0.81.10",
       "tag": "@react-native-windows/cli_v0.81.10",

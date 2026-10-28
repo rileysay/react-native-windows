@@ -1,8 +1,16 @@
 # Change Log - @react-native-windows/telemetry
 
-<!-- This log was last generated on Wed, 19 Aug 2026 02:25:43 GMT and should not be manually modified. -->
+<!-- This log was last generated on Wed, 28 Oct 2026 00:03:56 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.81.5
+
+Wed, 28 Oct 2026 00:03:56 GMT
+
+### Patches
+
+- Update @xmldom/xmldom to ^0.8.15 for XML serialization security fixes. (anuagra@microsoft.com)
 
 ## 0.81.4
 
